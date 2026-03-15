@@ -1,1 +1,1 @@
-# gpu-puzzles
+# puzzles
